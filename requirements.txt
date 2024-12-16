@@ -1,0 +1,2 @@
+flasgger
+pandas
